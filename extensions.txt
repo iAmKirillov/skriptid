@@ -1,0 +1,11 @@
+png
+jpg
+txt
+exe
+bat
+docx
+xslx
+rtf
+pdf
+ini
+
