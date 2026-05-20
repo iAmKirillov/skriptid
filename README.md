@@ -8,5 +8,4 @@ args.sh - Käsurealt argumentide lugemine
 array.sh - Massiivid
 extensions.txt - Laiendite fail
 first.sh - esimene Bash skript
-
 ```
